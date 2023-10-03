@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SEED\\Project\\Automobile_Showroom\\Automobile_Showroom\\Automobile_Showroom.csproj",
+      "projectUniqueName": "F:\\SEED\\C_Sharp_project\\Automobile_Showroom\\Automobile_Showroom\\Automobile_Showroom.csproj",
       "projectName": "Automobile_Showroom",
-      "projectPath": "F:\\SEED\\Project\\Automobile_Showroom\\Automobile_Showroom\\Automobile_Showroom.csproj",
+      "projectPath": "F:\\SEED\\C_Sharp_project\\Automobile_Showroom\\Automobile_Showroom\\Automobile_Showroom.csproj",
       "packagesPath": "C:\\Users\\Kalpesh\\.nuget\\packages\\",
-      "outputPath": "F:\\SEED\\Project\\Automobile_Showroom\\Automobile_Showroom\\obj\\",
+      "outputPath": "F:\\SEED\\C_Sharp_project\\Automobile_Showroom\\Automobile_Showroom\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kalpesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
