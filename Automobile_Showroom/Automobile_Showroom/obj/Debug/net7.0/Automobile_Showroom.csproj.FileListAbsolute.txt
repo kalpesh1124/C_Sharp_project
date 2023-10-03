@@ -1,0 +1,14 @@
+F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\bin\Debug\net7.0\Automobile_Showroom.exe
+F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\bin\Debug\net7.0\Automobile_Showroom.deps.json
+F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\bin\Debug\net7.0\Automobile_Showroom.runtimeconfig.json
+F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\bin\Debug\net7.0\Automobile_Showroom.dll
+F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\bin\Debug\net7.0\Automobile_Showroom.pdb
+F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\Automobile_Showroom.GeneratedMSBuildEditorConfig.editorconfig
+F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\Automobile_Showroom.AssemblyInfoInputs.cache
+F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\Automobile_Showroom.AssemblyInfo.cs
+F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\Automobile_Showroom.csproj.CoreCompileInputs.cache
+F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\Automobile_Showroom.dll
+F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\refint\Automobile_Showroom.dll
+F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\Automobile_Showroom.pdb
+F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\Automobile_Showroom.genruntimeconfig.cache
+F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\ref\Automobile_Showroom.dll
