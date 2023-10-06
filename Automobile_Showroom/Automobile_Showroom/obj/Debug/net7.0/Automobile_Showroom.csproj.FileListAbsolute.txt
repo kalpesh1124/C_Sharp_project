@@ -12,3 +12,17 @@ F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\refint\
 F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\Automobile_Showroom.pdb
 F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\Automobile_Showroom.genruntimeconfig.cache
 F:\SEED\Project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\ref\Automobile_Showroom.dll
+F:\SEED\C_Sharp_project\Automobile_Showroom\Automobile_Showroom\bin\Debug\net7.0\Automobile_Showroom.exe
+F:\SEED\C_Sharp_project\Automobile_Showroom\Automobile_Showroom\bin\Debug\net7.0\Automobile_Showroom.deps.json
+F:\SEED\C_Sharp_project\Automobile_Showroom\Automobile_Showroom\bin\Debug\net7.0\Automobile_Showroom.runtimeconfig.json
+F:\SEED\C_Sharp_project\Automobile_Showroom\Automobile_Showroom\bin\Debug\net7.0\Automobile_Showroom.dll
+F:\SEED\C_Sharp_project\Automobile_Showroom\Automobile_Showroom\bin\Debug\net7.0\Automobile_Showroom.pdb
+F:\SEED\C_Sharp_project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\Automobile_Showroom.GeneratedMSBuildEditorConfig.editorconfig
+F:\SEED\C_Sharp_project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\Automobile_Showroom.AssemblyInfoInputs.cache
+F:\SEED\C_Sharp_project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\Automobile_Showroom.AssemblyInfo.cs
+F:\SEED\C_Sharp_project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\Automobile_Showroom.csproj.CoreCompileInputs.cache
+F:\SEED\C_Sharp_project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\Automobile_Showroom.dll
+F:\SEED\C_Sharp_project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\refint\Automobile_Showroom.dll
+F:\SEED\C_Sharp_project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\Automobile_Showroom.pdb
+F:\SEED\C_Sharp_project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\Automobile_Showroom.genruntimeconfig.cache
+F:\SEED\C_Sharp_project\Automobile_Showroom\Automobile_Showroom\obj\Debug\net7.0\ref\Automobile_Showroom.dll

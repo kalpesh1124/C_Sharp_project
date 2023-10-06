@@ -92,6 +92,8 @@ namespace Course
                 } while (error != 0);
                 return hb;
             }
+
+
             public int Sedan()
             {
                 int error = 0;
@@ -141,6 +143,9 @@ namespace Course
                 } while (error != 0);
                 return sD;
             }
+
+
+
             public int SUV()
             {
                 int error = 0;
@@ -191,6 +196,9 @@ namespace Course
                 } while (error != 0);
                 return sUV;
             }
+
+
+
             public int Luxury()
             {
                 int error = 0;
@@ -243,6 +251,9 @@ namespace Course
 
 
         }
+
+
+
         class Accessories
         {
             public int colourPrice = 0;
@@ -305,6 +316,7 @@ namespace Course
 
             }
 
+
             public int CarCover()
             {
                 int cover = 0;
@@ -335,6 +347,8 @@ namespace Course
                 return cover;
 
             }
+
+
             public int seatCover()
             {
                 int cover = 0;
@@ -365,6 +379,8 @@ namespace Course
                 return cover;
 
             }
+
+
             public int floorMats()
             {
                 int mats = 0;
@@ -391,8 +407,11 @@ namespace Course
                         mats = 0;
                     }
 
+
                 } while (mats == 0);
                 return mats;
+
+
 
             }
         }
@@ -418,6 +437,8 @@ namespace Course
             }
 
         }
+
+
         class Loan
         {
 
@@ -484,6 +505,7 @@ namespace Course
 
         }
 
+
         class Customer
         {
             public static int id = 0;
@@ -540,6 +562,8 @@ namespace Course
                 Console.WriteLine("Amount to Paid = " + totalAmount);
                 Console.WriteLine();
             }
+
+
             public void FinalDetails()
             {
                 Console.WriteLine();
@@ -574,6 +598,8 @@ namespace Course
 
         }
 
+
+
         class Program
         {
 
@@ -599,6 +625,8 @@ namespace Course
                 public string paidBy;
 
             }
+
+
 
             static void Main(String[] args)
             {
